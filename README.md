@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/zerocooldude" target="blank"><img src="https://img.shields.io/twitter/follow/zerocooldude?logo=twitter&style=for-the-badge" alt="zerocooldude" /></a> </p>
 
-- 🔭 I’m currently working on **Esenxial**
+- 🔭 I’m currently working at **Cognizant Technology Solutions** as an iOS developer
 
-- 🌱 I’m currently learning **SwiftUI, Data Structures, Design & Architectural patters**
+- 🌱 I’m currently learning **SwiftUI, Data Structures, Design & Architectural patterns**
 
 - 💬 Ask me about **SwiftUI, Swift and iOS related stuff**
 
 - 📫 How to reach me **pmabi1993@outlook.com**
 
-- ⚡ Fun fact **I think I am just sarcastic because my pea sized brain thinks that is the best defence mechanis. HAIL CHANDLER**
+- ⚡ Fun fact **I think I am just sarcastic because my pea sized brain thinks it would be the best defencive mechanism. HAIL CHANDLER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
